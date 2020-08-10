@@ -1,0 +1,40 @@
+<mxfile host="39c83cfc-ec4e-4fb2-9f6f-cd7d7cb873df" modified="2020-08-10T22:33:42.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.3 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36" etag="SuLZOOIXxmknRz62J0gx" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="2273" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="-100" y="220" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="940" y="220" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="功能选择&lt;br&gt;&lt;br&gt;· 字幕压制&lt;br&gt;· 视频转码&lt;br&gt;· 改变视频分辨率&lt;br&gt;· 视频音频提取&lt;br&gt;· 音频转码&lt;br&gt;· 字幕转码&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-327.5" y="40" width="125" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-360" y="200" as="sourcePoint"/>
+                        <mxPoint x="1081" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-360" y="260" as="sourcePoint"/>
+                        <mxPoint x="1080" y="260" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="&lt;h1&gt;字幕压制&lt;/h1&gt;&lt;p&gt;将选定字幕文件(ass/srt/vtt)与选定视频文件压制为一个带字幕的视频文件。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-360" y="270" width="170" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-160" y="680" as="sourcePoint"/>
+                        <mxPoint x="-160" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
